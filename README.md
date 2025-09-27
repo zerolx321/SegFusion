@@ -1,2 +1,2 @@
 # SegFusion
-Code will be released soon
+We published test results on the FMB, MFnet, and PST900 datasets.
